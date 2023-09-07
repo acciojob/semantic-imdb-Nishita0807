@@ -1,2 +1,24 @@
+body{
+	padding:0px;
+	margin:0px;
+}
 
+nav>a{
+	text-decoration:none;
+	color:blue;
+	
+}
+nav>#nav-actor{
+	margin-right:12px;
+	color:greenyellow;
+	text-transform:uppercase;
+}
+summary{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+ margin:12px;
+	border:1px solid red;
+ width:200px;
+}
 /* Your CSS Code here. */
